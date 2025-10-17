@@ -66,7 +66,7 @@ Please download them using the following Google Drive links and place them in yo
 
 - [fruit_classifier.h5](https://drive.google.com/file/d/1jQd_ta74YLn7EDHQ82tt5EhWwFYLa4zT/view?usp=sharing)
 - [apple_quality_classifier.h5](https://drive.google.com/file/d/1z56tVm_9AIy7672ofTTJRYovPqGLtLnq/view?usp=sharing)
-- [banana_quality_classifier.h5]([https://drive.google.com/file/d/<BANANA_MODEL_ID>/view](https://drive.google.com/file/d/11XTLPyayRPiKz6UmQnOtSJQ72rJXfCJe/view?usp=sharing))
+- [banana_quality_classifier.h5](https://drive.google.com/file/d/11XTLPyayRPiKz6UmQnOtSJQ72rJXfCJe/view?usp=sharing)
 
 Or automatically download them in the notebook using:
 
